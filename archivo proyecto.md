@@ -1,0 +1,69 @@
+# BOXCHETT
+
+## ¿que problema soluciona?
+Muchas empresas tienen dificultades para ofrecer atención al cliente rápida, eficiente y disponible en todo momento. Los horarios limitados, la alta demanda de consultas y la falta de personal generan tiempos de espera largos, respuestas tardías y una mala experiencia para el usuario. Esto puede provocar pérdida de clientes, disminución de ventas y baja satisfacción.
+
+## ¿a qué nivel de desición impacta? 
+impacta principalmente al nivel de desición operativo ya lo que hace es: 
+
+-Responder preguntas frecuentes
+
+-Gestionar solicitudes básicas
+
+-Dar información inmediata
+
+-Atender clientes 24/7
+
+## ¿qué decisiones permitirá tomar? 
+BOXCHETT permite a las empresas tomar decisiones fundamentadas en datos reales obtenidos de las interacciones con los clientes.
+A través del análisis de consultas, horarios de mayor demanda, tipos de problemas frecuentes y comportamiento de los usuarios, la empresa puede identificar patrones y necesidades concretas.
+
+## ¿que pasaria si no existiera ese sistema?
+Si no existiera un sistema como el que ofrece BOXCHETT, las empresas enfrentarían diversas dificultades en su atención al cliente:
+
+-Mayor tiempo de espera para los usuarios, especialmente en horarios de alta demanda.
+
+-Sobrecarga del personal, obligando a los empleados a atender consultas repetitivas en lugar de enfocarse en casos complejos o estratégicos.
+
+-Disponibilidad limitada, ya que la atención dependería únicamente de horarios laborales.
+
+-Aumento de costos operativos, debido a la necesidad de contratar más personal para cubrir la demanda.
+
+-Menor competitividad, frente a empresas que sí utilizan sistemas automatizados e innovadores.
+
+-Toma de decisiones menos precisa, al no contar con datos organizados y analizados automáticamente sobre las consultas y necesidades de los clientes.
+
+## Objetivo general del sistema
+Desarrollar e implementar un sistema de chatbots inteligentes que mejore la atención al cliente mediante respuestas automáticas, rápidas y disponibles 24/7, optimizando la comunicación entre empresas y usuarios.
+
+## dos Objetivos específicos
+-Automatizar la atención de consultas frecuentes para reducir tiempos de espera y mejorar la eficiencia del servicio.
+
+-Recopilar y analizar datos de interacción con los clientes para apoyar la toma de decisiones empresariales basadas en información real.
+
+## Nivel de decisión principal que impacta
+El sistema impacta principalmente en el nivel operativo, ya que mejora las actividades diarias de atención al cliente, automatiza procesos repetitivos y optimiza tiempos de respuesta.
+
+Sin embargo, también influye en los niveles táctico y estratégico al proporcionar datos útiles para mejorar procesos y fortalecer la competitividad empresarial.
+
+## Características críticas que debe cumplir
+-Disponibilidad 24/7 sin interrupciones.
+
+-Respuestas rápidas y precisas.
+
+-Capacidad de aprendizaje y adaptación (inteligencia artificial).
+
+-Seguridad y protección de datos del usuario.
+
+-Integración con múltiples canales (web, redes sociales, mensajería).
+
+-Generación de reportes y estadísticas para análisis.
+
+## ¿Qué decisiones permitirá tomar?
+-Ajustar procesos de atención al cliente según las consultas más frecuentes.
+
+-Optimizar recursos humanos, asignando personal a tareas de mayor valor.
+
+-Detectar oportunidades de mejora en productos o servicios.
+
+-Tomar decisiones estratégicas para innovar y mejorar la experiencia del cliente.
