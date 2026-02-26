@@ -40,3 +40,8 @@ Desarrollar e implementar un sistema de chatbots inteligentes que mejore la aten
 -Automatizar la atención de consultas frecuentes para reducir tiempos de espera y mejorar la eficiencia del servicio.
 
 -Recopilar y analizar datos de interacción con los clientes para apoyar la toma de decisiones empresariales basadas en información real.
+
+## Nivel de decisión principal que impacta
+El sistema impacta principalmente en el nivel operativo, ya que mejora las actividades diarias de atención al cliente, automatiza procesos repetitivos y optimiza tiempos de respuesta.
+
+Sin embargo, también influye en los niveles táctico y estratégico al proporcionar datos útiles para mejorar procesos y fortalecer la competitividad empresarial.
