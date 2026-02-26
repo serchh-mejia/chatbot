@@ -32,3 +32,6 @@ Si no existiera un sistema como el que ofrece BOXCHETT, las empresas enfrentarí
 -Menor competitividad, frente a empresas que sí utilizan sistemas automatizados e innovadores.
 
 -Toma de decisiones menos precisa, al no contar con datos organizados y analizados automáticamente sobre las consultas y necesidades de los clientes.
+
+## Objetivo general del sistema
+Desarrollar e implementar un sistema de chatbots inteligentes que mejore la atención al cliente mediante respuestas automáticas, rápidas y disponibles 24/7, optimizando la comunicación entre empresas y usuarios.
