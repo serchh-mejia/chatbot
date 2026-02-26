@@ -58,3 +58,12 @@ Sin embargo, también influye en los niveles táctico y estratégico al proporci
 -Integración con múltiples canales (web, redes sociales, mensajería).
 
 -Generación de reportes y estadísticas para análisis.
+
+## ¿Qué decisiones permitirá tomar?
+-Ajustar procesos de atención al cliente según las consultas más frecuentes.
+
+-Optimizar recursos humanos, asignando personal a tareas de mayor valor.
+
+-Detectar oportunidades de mejora en productos o servicios.
+
+-Tomar decisiones estratégicas para innovar y mejorar la experiencia del cliente.
