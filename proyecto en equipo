@@ -52,11 +52,18 @@ Permite analizar información recopilada para optimizar inventarios, promociones
 
 Caracteristicas criticas que debe cumplir:
 
-Respuesta automática 24/7.
-Registro y almacenamiento seguro de datos.
-Interfaz clara y fácil de usar.
-Alta disponibilidad del sistema.
-Protección de datos de los clientes.
+-Respuesta automática 24/7.
+-Registro y almacenamiento seguro de datos.
+-Interfaz clara y fácil de usar.
+-Alta disponibilidad del sistema.
+-Protección de datos de los clientes.
+
+¿Que desicion permitira tomar?
+
+-Permite cuales productos tienen mayor demanda.
+-Ajustar inventarios según pedidos frecuentes.
+-Implementar promociones estratégicas.
+-Asignar recursos humanos según volumen de consultas.
 
 
 
