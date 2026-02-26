@@ -35,3 +35,8 @@ Si no existiera un sistema como el que ofrece BOXCHETT, las empresas enfrentarí
 
 ## Objetivo general del sistema
 Desarrollar e implementar un sistema de chatbots inteligentes que mejore la atención al cliente mediante respuestas automáticas, rápidas y disponibles 24/7, optimizando la comunicación entre empresas y usuarios.
+
+## dos Objetivos específicos
+-Automatizar la atención de consultas frecuentes para reducir tiempos de espera y mejorar la eficiencia del servicio.
+
+-Recopilar y analizar datos de interacción con los clientes para apoyar la toma de decisiones empresariales basadas en información real.
