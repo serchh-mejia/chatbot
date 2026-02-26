@@ -19,7 +19,7 @@ BOXCHETT permite a las empresas tomar decisiones fundamentadas en datos reales o
 A través del análisis de consultas, horarios de mayor demanda, tipos de problemas frecuentes y comportamiento de los usuarios, la empresa puede identificar patrones y necesidades concretas.
 
 ## ¿que pasaria si no existiera ese sistema?
-Si no existiera un sistema como el que ofrece cBOXCHETT, las empresas enfrentarían diversas dificultades en su atención al cliente:
+Si no existiera un sistema como el que ofrece BOXCHETT, las empresas enfrentarían diversas dificultades en su atención al cliente:
 
 -Mayor tiempo de espera para los usuarios, especialmente en horarios de alta demanda.
 
