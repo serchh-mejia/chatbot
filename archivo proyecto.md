@@ -45,3 +45,16 @@ Desarrollar e implementar un sistema de chatbots inteligentes que mejore la aten
 El sistema impacta principalmente en el nivel operativo, ya que mejora las actividades diarias de atención al cliente, automatiza procesos repetitivos y optimiza tiempos de respuesta.
 
 Sin embargo, también influye en los niveles táctico y estratégico al proporcionar datos útiles para mejorar procesos y fortalecer la competitividad empresarial.
+
+## Características críticas que debe cumplir
+-Disponibilidad 24/7 sin interrupciones.
+
+-Respuestas rápidas y precisas.
+
+-Capacidad de aprendizaje y adaptación (inteligencia artificial).
+
+-Seguridad y protección de datos del usuario.
+
+-Integración con múltiples canales (web, redes sociales, mensajería).
+
+-Generación de reportes y estadísticas para análisis.
