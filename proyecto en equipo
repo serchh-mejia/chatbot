@@ -1,0 +1,77 @@
+cha box
+1. ¿Qué problema soluciona?
+
+-Este sistema soluciona la demora en la atención de pedidos y la falta de respuesta inmediata a los clientes en WhatsApp.
+-preguntas repetitivas:
+-Disponibilidad de productos
+-Precios
+-Horarios de atención
+-Métodos de pago
+
+2.¿A qué nivel de decisión impacta?
+
+-Impacta principalmente en el nivel operativo, ya que optimiza el proceso diario de atención al cliente y gestión de pedidos.
+- proporciona datos sobre:
+-Cantidad de pedidos recibidos
+-Horarios de mayor demanda
+-Preguntas más frecuentes
+-Comportamiento de los clientes
+
+3. ¿Qué decisiones permite tomar?
+
+-Reforzar inventario en productos más solicitados.
+-Mejorar promociones según consultas frecuentes.
+-Optimizar tiempos de entrega.
+
+4. ¿Qué pasaría si no existiera este sistema?
+
+-Los clientes tendrían tiempos de espera más largos.
+-Se perderían ventas por falta de respuesta inmediata.
+-El personal estaría sobrecargado respondiendo consultas repetitivas.
+-Habría menor control y registro de pedidos.
+-La experiencia del cliente sería menos eficiente.
+
+
+objetivo general:
+
+-implementar o desarrollar un sistema en chatbot en WhatsApp que automatice la atención de clientes y la gestión de pedidos,
+mejorando los tiempos de respuesta, optimizando recursos y facilitando la toma de decisiones operativas en el negocio.
+
+Objetivos especificos:
+
+-Automatizar la atención de consultas frecuentes (precios, disponibilidad, estado del pedido, horarios y métodos de pago) para reducir tiempos de respuesta.
+-Registrar y almacenar información de los pedidos y consultas para generar datos que apoyen el análisis de ventas y la mejora del servicio.
+
+Nivel de desicion que impacta:
+
+-Nivel Operativo:
+Mejora la gestión diaria de pedidos y la atención al cliente.
+
+-Nivel Táctico:
+Permite analizar información recopilada para optimizar inventarios, promociones y horarios de atención.
+
+Caracteristicas criticas que debe cumplir:
+
+-Respuesta automática 24/7.
+-Registro y almacenamiento seguro de datos.
+-Interfaz clara y fácil de usar.
+-Alta disponibilidad del sistema.
+-Protección de datos de los clientes.
+
+¿Que desicion permitira tomar?
+
+-Permite cuales productos tienen mayor demanda.
+-Ajustar inventarios según pedidos frecuentes.
+-Implementar promociones estratégicas.
+-Asignar recursos humanos según volumen de consultas.
+
+
+
+
+
+
+
+
+
+
+
