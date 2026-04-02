@@ -16,3 +16,14 @@ Cuando respondes con un "Quiero comprarlo", el sistema cambia de "modo informaci
     Detección de datos: El chatbot se pone manos a la obra para identificar datos clave que tú le das (o que ya tiene guardados), como tu dirección de envío y tu método de pago.
 
     Validación: El servidor envía estos datos específicos a la base de datos para asegurarse de que todo sea correcto (que haya stock, que la dirección exista, etc.).
+
+
+3. El Cierre 
+
+Esta es la parte más crítica, donde el dinero y el inventario se mueven.
+
+    Procesamiento: El servidor de base de datos recibe la orden final. Aquí es donde se "escribe" la historia: se resta una unidad del inventario y se registra que tú hiciste la compra.
+
+    Confirmación: Una vez que la base de datos confirma que la operación se guardó con éxito, le devuelve la señal al servidor principal.
+
+    Final feliz: El sistema te envía el mensaje final: "Compra realizada con éxito".
