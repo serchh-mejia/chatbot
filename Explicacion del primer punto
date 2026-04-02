@@ -1,0 +1,7 @@
+1. La Fase de Consulta 
+
+Todo empieza cuando tú, como usuario, lanzas una pregunta simple (por ejemplo: "¿Cuál es el precio de este producto?").
+
+    El intermediario: Tu mensaje llega a un Servidor (Backend/Chatbot). Este no sabe los precios de memoria, así que actúa como un recepcionista: recibe tu duda y se la pasa a quien tiene la información.
+
+    La búsqueda: El servidor consulta la Base de Datos. Una vez que encuentra el precio, la Inteligencia Artificial procesa esa información para que la respuesta no parezca un código frío, sino un mensaje amable que tú puedas entender.
