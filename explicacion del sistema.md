@@ -1,22 +1,22 @@
 # 2. Explicación del sistema
 
-##¿Qué hace cada parte?
+## ¿Qué hace cada parte?
 
-##Cliente:  
+## Cliente:  
 Es la interfaz que usa el usuario (por ejemplo, una página web o app). Permite enviar mensajes al chatbot y recibir respuestas.
 
-##Servidor (Backend):
+## Servidor (Backend):
 Es el encargado de procesar las solicitudes. Analiza los mensajes, aplica la lógica de negocio y genera respuestas automáticas.
 
-##Base de datos:
+## Base de datos:
 Almacena la información del sistema, como el historial de conversaciones, consultas realizadas y posibles respuestas.
 
-#¿Qué datos maneja?
+# ¿Qué datos maneja?
 
-##Cliente:
+## Cliente:
 -Mensajes del usuario (texto de entrada).
 
-##Servidor:
+## Servidor:
 -Procesa datos como:
 
 -Mensajes recibidos
@@ -25,7 +25,7 @@ Almacena la información del sistema, como el historial de conversaciones, consu
 
 -Respuestas generadas
 
-##Base de datos:
+## Base de datos:
 -Guarda:
 
 -Historial de chats
@@ -34,7 +34,7 @@ Almacena la información del sistema, como el historial de conversaciones, consu
 
 -Datos relevantes para mejorar el servicio
 
-##¿Cómo se comunican?
+## ¿Cómo se comunican?
 -El cliente envía una solicitud al servidor (por ejemplo, un mensaje).
 
 -El servidor procesa la información y consulta la base de datos si es necesario.
