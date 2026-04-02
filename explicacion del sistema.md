@@ -43,6 +43,6 @@ Almacena la información del sistema, como el historial de conversaciones, consu
 
 -El servidor genera una respuesta y la envía de vuelta al cliente.
 
-##explicación breve
+## explicación breve
 El diagrama muestra cómo funciona BOXCHETT a través de tres componentes: cliente, servidor y base de datos. El cliente envía mensajes al servidor, donde se procesan mediante la lógica de negocio (controladores, servicios, etc.) para generar una respuesta.
 Si es necesario, el servidor consulta la base de datos para obtener o guardar información. Finalmente, la respuesta se envía de vuelta al cliente, permitiendo una comunicación automatizada y eficiente.
