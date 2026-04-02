@@ -5,3 +5,14 @@ Todo empieza cuando tú, como usuario, lanzas una pregunta simple (por ejemplo: 
     El intermediario: Tu mensaje llega a un Servidor (Backend/Chatbot). Este no sabe los precios de memoria, así que actúa como un recepcionista: recibe tu duda y se la pasa a quien tiene la información.
 
     La búsqueda: El servidor consulta la Base de Datos. Una vez que encuentra el precio, la Inteligencia Artificial procesa esa información para que la respuesta no parezca un código frío, sino un mensaje amable que tú puedas entender.
+
+   
+
+
+2. La Fase de Intención 
+
+Cuando respondes con un "Quiero comprarlo", el sistema cambia de "modo información" a "modo ventas".
+
+    Detección de datos: El chatbot se pone manos a la obra para identificar datos clave que tú le das (o que ya tiene guardados), como tu dirección de envío y tu método de pago.
+
+    Validación: El servidor envía estos datos específicos a la base de datos para asegurarse de que todo sea correcto (que haya stock, que la dirección exista, etc.).
