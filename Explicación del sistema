@@ -1,0 +1,48 @@
+# 2. Explicación del sistema
+
+## ¿Qué hace cada parte?
+
+## Cliente:  
+Es la interfaz que usa el usuario (por ejemplo, una página web o app). Permite enviar mensajes al chatbot y recibir respuestas.
+
+## Servidor (Backend):
+Es el encargado de procesar las solicitudes. Analiza los mensajes, aplica la lógica de negocio y genera respuestas automáticas.
+
+## Base de datos:
+Almacena la información del sistema, como el historial de conversaciones, consultas realizadas y posibles respuestas.
+
+# ¿Qué datos maneja?
+
+## Cliente:
+-Mensajes del usuario (texto de entrada).
+
+## Servidor:
+-Procesa datos como:
+
+-Mensajes recibidos
+
+-Intención del usuario
+
+-Respuestas generadas
+
+## Base de datos:
+-Guarda:
+
+-Historial de chats
+
+-Fecha y hora de consultas
+
+-Datos relevantes para mejorar el servicio
+
+## ¿Cómo se comunican?
+-El cliente envía una solicitud al servidor (por ejemplo, un mensaje).
+
+-El servidor procesa la información y consulta la base de datos si es necesario.
+
+-La base de datos devuelve la información al servidor.
+
+-El servidor genera una respuesta y la envía de vuelta al cliente.
+
+## explicación breve
+El diagrama muestra cómo funciona BOXCHETT a través de tres componentes: cliente, servidor y base de datos. El cliente envía mensajes al servidor, donde se procesan mediante la lógica de negocio (controladores, servicios, etc.) para generar una respuesta.
+Si es necesario, el servidor consulta la base de datos para obtener o guardar información. Finalmente, la respuesta se envía de vuelta al cliente, permitiendo una comunicación automatizada y eficiente.
