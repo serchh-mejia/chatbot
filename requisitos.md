@@ -1,0 +1,41 @@
+# Requisitos del Proyecto – Chatbot BOXCHETT
+
+## Requisitos Funcionales
+
+- *Respuesta Automática:* El sistema debe responder automáticamente a las consultas de los usuarios en un tiempo máximo de 3 segundos.  
+
+- *Disponibilidad Continua:* El chatbot debe estar disponible para los usuarios las 24 horas del día, los 7 días de la semana.  
+
+- *Registro de Consultas:* El sistema debe almacenar todas las consultas realizadas por los usuarios en una base de datos.  
+
+- *Información Clara:* El chatbot debe proporcionar respuestas claras, precisas y comprensibles en cada interacción.  
+
+- *Gestión de Preguntas Frecuentes:* El sistema debe identificar y responder automáticamente preguntas frecuentes previamente configuradas.  
+
+- *Navegación Guiada:* El chatbot debe ofrecer opciones o menús interactivos para guiar al usuario durante la conversación.  
+
+- *Escalamiento a Humano:* El sistema debe transferir la conversación a un agente humano cuando no pueda resolver la consulta.  
+
+- *Atención Simultánea:* El chatbot debe atender múltiples usuarios al mismo tiempo sin afectar su rendimiento.  
+
+- *Historial de Conversaciones:* El sistema debe permitir consultar el historial de conversaciones de cada usuario.  
+
+- *Personalización de Respuestas:* El chatbot debe adaptar sus respuestas según el tipo de consulta o contexto del usuario.  
+
+
+
+## Requisitos No Funcionales
+
+- *Rendimiento:* El sistema debe garantizar un tiempo de respuesta menor a 3 segundos en el 95% de las consultas.  
+
+- *Disponibilidad:* El sistema debe tener una disponibilidad mínima del 99% mensual.  
+
+- *Seguridad:* El sistema debe proteger los datos del usuario mediante mecanismos de cifrado y control de acceso.  
+
+- *Usabilidad:* El chatbot debe ser fácil de usar, permitiendo que un usuario interactúe sin necesidad de capacitación previa.  
+
+- *Escalabilidad:* El sistema debe soportar el incremento de usuarios sin degradar su rendimiento.  
+
+- *Compatibilidad:* El chatbot debe funcionar correctamente en navegadores web y dispositivos móviles.  
+
+- *Confiabilidad:* El sistema debe garantizar el almacenamiento seguro y consistente de las conversaciones.
