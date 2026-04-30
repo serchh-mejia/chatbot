@@ -2,7 +2,7 @@
 
 ## Descripción de proyecto
 
-BOXCHETT es una empresa tecnológica dedicada al desarrollo de chatbots inteligentes para atención al cliente.  
+BOXCHETT es una empresa tecnológica dedicada al desarrollo de un chatbot inteligente para atención al cliente.  
 Su objetivo es mejorar la comunicación entre empresas y usuarios mediante sistemas automatizados disponibles 24/7.
 
 ## Información general
