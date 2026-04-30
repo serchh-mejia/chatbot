@@ -24,3 +24,22 @@
 
 
 
+
+## Requisitos No Funcionales
+
+- *Rendimiento:* El sistema debe garantizar un tiempo de respuesta menor a 3 segundos en el 95% de las consultas.  
+
+- *Disponibilidad:* El sistema debe tener una disponibilidad mínima del 99% mensual.  
+
+- *Seguridad:* El sistema debe proteger los datos del usuario mediante mecanismos de cifrado y control de acceso.  
+
+- *Usabilidad:* El chatbot debe ser fácil de usar, permitiendo que un usuario interactúe sin necesidad de capacitación previa.  
+
+- *Escalabilidad:* El sistema debe soportar el incremento de usuarios sin degradar su rendimiento.  
+
+- *Compatibilidad:* El chatbot debe funcionar correctamente en navegadores web y dispositivos móviles.  
+
+- *Confiabilidad:* El sistema debe garantizar el almacenamiento seguro y consistente de las conversaciones.
+
+
+
