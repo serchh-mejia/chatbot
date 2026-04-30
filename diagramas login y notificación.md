@@ -1,4 +1,0 @@
-## Diagrama del sistema
-
-Diagrama:
-https://lucid.app/lucidchart/960c307f-14ea-435c-b68d-5cec9fbed621/view
