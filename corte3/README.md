@@ -38,15 +38,21 @@ La estructura centralizada también ayuda a mantener una atención al cliente or
 Gracias a este modelo, BOXCHETT puede ofrecer un servicio automatizado disponible 24/7, optimizando los procesos operativos y mejorando la experiencia del cliente.
 
 # ARQUITECTURA CHATBOTT BOXCHETT.
-<img width="921" height="434" alt="image" src="https://github.com/user-attachments/assets/241d5efe-805b-44e7-83ae-2bf0a162018d" />
-<img width="921" height="511" alt="image" src="https://github.com/user-attachments/assets/7c4e1678-21af-48e2-bf45-44e2dbad098d" />
-<img width="921" height="452" alt="image" src="https://github.com/user-attachments/assets/7d50c793-4836-404f-860a-8fbd7db5ca9e" />
+<p align="center">
+<img width="905" height="484" alt="image" src="https://github.com/user-attachments/assets/241d5efe-805b-44e7-83ae-2bf0a162018d" />
+<img width="905" height="484" alt="image" src="https://github.com/user-attachments/assets/7c4e1678-21af-48e2-bf45-44e2dbad098d" />
+<img width="905" height="484" alt="image" src="https://github.com/user-attachments/assets/7d50c793-4836-404f-860a-8fbd7db5ca9e" />
+</p>
 
 ## FRONTEND.
-<img width="813" height="542" alt="image" src="https://github.com/user-attachments/assets/6bdc4e2a-2e43-4566-be16-ed5a1bd1eb18" />
+<p align="center">
+<img width="905" height="484" alt="image" src="https://github.com/user-attachments/assets/6bdc4e2a-2e43-4566-be16-ed5a1bd1eb18" />
+</p>
 
 ## BACKEND
+<p align="center">
 <img width="430" height="509" alt="image" src="https://github.com/user-attachments/assets/f4cd3048-3c99-425c-80f4-f1de2ce226c6" />
+</p>
 
 ## EXPLICACION DE LA LOGICA DE NEGOCIO 
 - **Controladores** Se encargan de recibir las solicitudes del usuario y enviarlas al módulo de servicios para su procesamiento.
@@ -58,23 +64,36 @@ Gracias a este modelo, BOXCHETT puede ofrecer un servicio automatizado disponibl
 - **Configuracion** Contiene parámetros generales del sistema como la conexión a la base de datos.
   
 ## Base De Batos
-<img width="921" height="607" alt="image" src="https://github.com/user-attachments/assets/c3053a3f-cf6c-4183-97a0-9c8cd23cd2c0" />
+<p align="center">
+<img width="905" height="484" alt="image" src="https://github.com/user-attachments/assets/c3053a3f-cf6c-4183-97a0-9c8cd23cd2c0" />
+</p>
 
 ## Modelado de Roles
+<p align="center">
 <img width="530" height="535" alt="Captura de pantalla 2026-05-28 165346 (1)" src="https://github.com/user-attachments/assets/97225bb8-0359-4e9c-97ff-a89d2add6612" />
+</p>
 
 # Diccionarios De Datos
 ## Diccionario: usuarios
-<img width="1544" height="475" alt="image" src="https://github.com/user-attachments/assets/6e71a2eb-7758-49b8-8fbe-9cf3048096d9" />
+<p align="center">
+<img width="905" height="484" alt="image" src="https://github.com/user-attachments/assets/6e71a2eb-7758-49b8-8fbe-9cf3048096d9" />
+</p>
 
 ## Diccionario: Entradas
-<img width="1099" height="636" alt="image" src="https://github.com/user-attachments/assets/301cddbb-f0ff-4d17-8dfa-d5ad47b81c31" />
+<p align="center">
+<img width="905" height="484" alt="image" src="https://github.com/user-attachments/assets/301cddbb-f0ff-4d17-8dfa-d5ad47b81c31" />
+</p>
 
 ## Diccionario: Salidas
+<p align="center">
 <img width="905" height="484" alt="Captura de pantalla 2026-06-03 171239" src="https://github.com/user-attachments/assets/4434fe5b-c6ab-48b0-b942-72bc8738283a" />
+</p>
 
 # Tipo de SI.
-<img width="1026" height="564" alt="image" src="https://github.com/user-attachments/assets/2f828230-17d2-4a37-b984-2831e04fc1c7" />
+<p align="center">
+<img width="905" height="484" alt="image" src="https://github.com/user-attachments/assets/2f828230-17d2-4a37-b984-2831e04fc1c7" />
+</p>
+
 La tabla muestra los tipos de Sistemas de Información utilizados en la gestión del chatbot. En el nivel operativo, el sistema TPS apoya las actividades diarias como la atención de consultas, el registro de conversaciones y el mantenimiento de la base de datos. En el nivel táctico, el sistema MIS proporciona reportes e información para supervisar el rendimiento del chatbot y apoyar la coordinación del equipo de trabajo. Finalmente, en el nivel estratégico, el sistema DSS brinda información consolidada que ayuda a la gerencia en la toma de decisiones relacionadas con mejoras, inversiones y crecimiento de la empresa.
 
 ## integrantes
