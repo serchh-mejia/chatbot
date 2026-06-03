@@ -27,95 +27,15 @@ Desarrollar un chatbot que permita automatizar la atención al cliente, reducir 
 - Ahorro de tiempo  
 - Servicio moderno  
 - Uso eficiente de tecnología
-# Explicación del sistema
-
-## ¿Qué hace cada parte?
-
-## Cliente:  
-Es la interfaz que usa el usuario (por ejemplo, una página web o app). Permite enviar mensajes al chatbot y recibir respuestas.
-
-## Servidor (Backend):
-Es el encargado de procesar las solicitudes. Analiza los mensajes, aplica la lógica de negocio y genera respuestas automáticas.
-
-## Base de datos:
-Almacena la información del sistema, como el historial de conversaciones, consultas realizadas y posibles respuestas.
-
- ¿Qué datos maneja?
-
-## Cliente:
--Mensajes del usuario (texto de entrada).
-
-## Servidor:
--Procesa datos como:
-
--Mensajes recibidos
-
--Intención del usuario
-
--Respuestas generadas
-
-## Base de datos:
--Guarda:
-
--Historial de chats
-
--Fecha y hora de consultas
-
--Datos relevantes para mejorar el servicio
-
-## ¿Cómo se comunican?
--El cliente envía una solicitud al servidor (por ejemplo, un mensaje).
-
--El servidor procesa la información y consulta la base de datos si es necesario.
-
--La base de datos devuelve la información al servidor.
-
--El servidor genera una respuesta y la envía de vuelta al cliente.
-
-## explicación breve
-El diagrama muestra cómo funciona BOXCHETT a través de tres componentes: cliente, servidor y base de datos. El cliente envía mensajes al servidor, donde se procesan mediante la lógica de negocio (controladores, servicios, etc.) para generar una respuesta.
-Si es necesario, el servidor consulta la base de datos para obtener o guardar información. Finalmente, la respuesta se envía de vuelta al cliente, permitiendo una comunicación automatizada y eficiente.
 
 
-## Requisitos Funcionales
+## Contexto Administrativo
+El sistema BOXCHETT apoya una estructura administrativa centralizada, ya que toda la información, el procesamiento de datos y la gestión del chatbot se realizan desde un servidor principal y una base de datos central.
 
-- **Respuesta Automática:** El sistema debe responder automáticamente a las consultas de los usuarios en un tiempo máximo de 3 segundos.  
+Esto permite que la empresa tenga un mayor control sobre la información de los usuarios, las consultas, los pedidos y el historial de conversaciones. Además, facilita la administración del sistema, la seguridad de los datos y la actualización de las funcionalidades del chatbot desde un único punto.
+La estructura centralizada también ayuda a mantener una atención al cliente organizada y eficiente, permitiendo supervisar las operaciones en tiempo real y garantizar respuestas rápidas y uniformes para todos los usuarios.
 
-- **Disponibilidad Continua:** El chatbot debe estar disponible para los usuarios las 24 horas del día, los 7 días de la semana.  
-
-- **Registro de Consultas:** El sistema debe almacenar todas las consultas realizadas por los usuarios en una base de datos.  
-
-- **Información Clara:** El chatbot debe proporcionar respuestas claras, precisas y comprensibles en cada interacción.  
-
-- **Gestión de Preguntas Frecuentes:** El sistema debe identificar y responder automáticamente preguntas frecuentes previamente configuradas.  
-
-- **Navegación Guiada:** El chatbot debe ofrecer opciones o menús interactivos para guiar al usuario durante la conversación.  
-
-- **Escalamiento a Humano:** El sistema debe transferir la conversación a un agente humano cuando no pueda resolver la consulta.  
-
-- **Atención Simultánea:** El chatbot debe atender múltiples usuarios al mismo tiempo sin afectar su rendimiento.  
-
-- **Historial de Conversaciones:** El sistema debe permitir consultar el historial de conversaciones de cada usuario.  
-
-- **Personalización de Respuestas:** El chatbot debe adaptar sus respuestas según el tipo de consulta o contexto del usuario.  
-
-
-
-## Requisitos No Funcionales
-
-- **Rendimiento:** El sistema debe garantizar un tiempo de respuesta menor a 3 segundos en el 95% de las consultas.  
-
-- **Disponibilidad:** El sistema debe tener una disponibilidad mínima del 99% mensual.  
-
-- **Seguridad:** El sistema debe proteger los datos del usuario mediante mecanismos de cifrado y control de acceso.  
-
-- **Usabilidad:** El chatbot debe ser fácil de usar, permitiendo que un usuario interactúe sin necesidad de capacitación previa.  
-
-- **Escalabilidad:** El sistema debe soportar el incremento de usuarios sin degradar su rendimiento.  
-
-- **Compatibilidad:** El chatbot debe funcionar correctamente en navegadores web y dispositivos móviles.  
-
-- **Confiabilidad:** El sistema debe garantizar el almacenamiento seguro y consistente de las conversaciones.
+Gracias a este modelo, BOXCHETT puede ofrecer un servicio automatizado disponible 24/7, optimizando los procesos operativos y mejorando la experiencia del cliente.
 
 # ARQUITECTURA CHATBOTT BOXCHETT.
 <img width="921" height="434" alt="image" src="https://github.com/user-attachments/assets/241d5efe-805b-44e7-83ae-2bf0a162018d" />
@@ -124,6 +44,8 @@ Si es necesario, el servidor consulta la base de datos para obtener o guardar in
 
 ## FRONTEND.
 <img width="813" height="542" alt="image" src="https://github.com/user-attachments/assets/6bdc4e2a-2e43-4566-be16-ed5a1bd1eb18" />
+
+## BACKEND
 <img width="430" height="509" alt="image" src="https://github.com/user-attachments/assets/f4cd3048-3c99-425c-80f4-f1de2ce226c6" />
 
 ## EXPLICACION DE LA LOGICA DE NEGOCIO 
@@ -134,22 +56,26 @@ Si es necesario, el servidor consulta la base de datos para obtener o guardar in
 - **Base de datos** Gestiona el almacenamiento de la información, permitiendo guardar y consultar el historial de conversaciones.
 - **Utilidades** Incluyen funciones auxiliares como el procesamiento de texto y la detección de palabras clave.
 - **Configuracion** Contiene parámetros generales del sistema como la conexión a la base de datos.
+  
 ## Base De Batos
-
 <img width="921" height="607" alt="image" src="https://github.com/user-attachments/assets/c3053a3f-cf6c-4183-97a0-9c8cd23cd2c0" />
 
-## Contexto Administrativo
-El sistema BOXCHETT apoya una estructura administrativa centralizada, ya que toda la información, el procesamiento de datos y la gestión del chatbot se realizan desde un servidor principal y una base de datos central.
+## Modelado de Roles
+<img width="530" height="535" alt="Captura de pantalla 2026-05-28 165346 (1)" src="https://github.com/user-attachments/assets/97225bb8-0359-4e9c-97ff-a89d2add6612" />
 
-Esto permite que la empresa tenga un mayor control sobre la información de los usuarios, las consultas, los pedidos y el historial de conversaciones. Además, facilita la administración del sistema, la seguridad de los datos y la actualización de las funcionalidades del chatbot desde un único punto.
-La estructura centralizada también ayuda a mantener una atención al cliente organizada y eficiente, permitiendo supervisar las operaciones en tiempo real y garantizar respuestas rápidas y uniformes para todos los usuarios.
+# Diccionarios De Datos
+## Diccionario: usuarios
+<img width="1544" height="475" alt="image" src="https://github.com/user-attachments/assets/6e71a2eb-7758-49b8-8fbe-9cf3048096d9" />
 
-Gracias a este modelo, BOXCHETT puede ofrecer un servicio automatizado disponible 24/7, optimizando los procesos operativos y mejorando la experiencia del cliente.
+## Diccionario: Entradas
+<img width="1099" height="636" alt="image" src="https://github.com/user-attachments/assets/301cddbb-f0ff-4d17-8dfa-d5ad47b81c31" />
 
-#
+## Diccionario: Salidas
+<img width="905" height="484" alt="Captura de pantalla 2026-06-03 171239" src="https://github.com/user-attachments/assets/4434fe5b-c6ab-48b0-b942-72bc8738283a" />
 
-
-
+# Tipo de SI.
+<img width="1026" height="564" alt="image" src="https://github.com/user-attachments/assets/2f828230-17d2-4a37-b984-2831e04fc1c7" />
+La tabla muestra los tipos de Sistemas de Información utilizados en la gestión del chatbot. En el nivel operativo, el sistema TPS apoya las actividades diarias como la atención de consultas, el registro de conversaciones y el mantenimiento de la base de datos. En el nivel táctico, el sistema MIS proporciona reportes e información para supervisar el rendimiento del chatbot y apoyar la coordinación del equipo de trabajo. Finalmente, en el nivel estratégico, el sistema DSS brinda información consolidada que ayuda a la gerencia en la toma de decisiones relacionadas con mejoras, inversiones y crecimiento de la empresa.
 
 ## integrantes
 - Sergio Andres Mejia Alban
