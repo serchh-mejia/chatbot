@@ -96,7 +96,7 @@ Gracias a este modelo, BOXCHETT puede ofrecer un servicio automatizado disponibl
 
 La tabla muestra los tipos de Sistemas de Información utilizados en la gestión del chatbot. En el nivel operativo, el sistema TPS apoya las actividades diarias como la atención de consultas, el registro de conversaciones y el mantenimiento de la base de datos. En el nivel táctico, el sistema MIS proporciona reportes e información para supervisar el rendimiento del chatbot y apoyar la coordinación del equipo de trabajo. Finalmente, en el nivel estratégico, el sistema DSS brinda información consolidada que ayuda a la gerencia en la toma de decisiones relacionadas con mejoras, inversiones y crecimiento de la empresa.
 
-Matiz raci  raci 
+Matiz raci 
 <img width="1212" height="588" alt="imagen" src="https://github.com/user-attachments/assets/7e7b73ad-59c9-40b7-a6af-f63e17b99e57" />
 
 
