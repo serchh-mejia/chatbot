@@ -96,7 +96,8 @@ Gracias a este modelo, BOXCHETT puede ofrecer un servicio automatizado disponibl
 <p align="center">
 <img width="905" height="484" alt="image" src="https://github.com/user-attachments/assets/2f828230-17d2-4a37-b984-2831e04fc1c7" />
 </p>
-# Validacion de Entrada
+
+## Validacion de Entrada
 
 <img width="762" height="652" alt="Captura de pantalla 2026-06-04 014334" src="https://github.com/user-attachments/assets/776e7f9d-e01f-4001-9109-92fd988bf535" />
 
