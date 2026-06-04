@@ -37,9 +37,6 @@ La estructura centralizada también ayuda a mantener una atención al cliente or
 
 Gracias a este modelo, BOXCHETT puede ofrecer un servicio automatizado disponible 24/7, optimizando los procesos operativos y mejorando la experiencia del cliente.
 
-## modelado de roles
-<img width="530" height="535" alt="Captura de pantalla 2026-05-28 165346" src="https://github.com/user-attachments/assets/abd87a78-fd4f-4336-a816-358dfcd2632b" />
-
 # ARQUITECTURA CHATBOTT BOXCHETT.
 <p align="center">
 <img width="905" height="484" alt="image" src="https://github.com/user-attachments/assets/241d5efe-805b-44e7-83ae-2bf0a162018d" />
@@ -76,13 +73,13 @@ Gracias a este modelo, BOXCHETT puede ofrecer un servicio automatizado disponibl
 <img width="530" height="535" alt="Captura de pantalla 2026-05-28 165346 (1)" src="https://github.com/user-attachments/assets/97225bb8-0359-4e9c-97ff-a89d2add6612" />
 </p>
 
-Matriz RACI
+## Matriz RACI
   <img width="1212" height="588" alt="imagen" src="https://github.com/user-attachments/assets/7e7b73ad-59c9-40b7-a6af-f63e17b99e57" />
   
 # Diccionarios De Datos
 ## Diccionario: usuarios
 <p align="center">
-<img width="905" height="484" alt="image" src="https://github.com/user-attachments/assets/6e71a2eb-7758-49b8-8fbe-9cf3048096d9" />
+<img width="905" height="484" alt="image" src="https://github.com/user-attachments/assets/a7cbfb2c-4331-4953-9466-ba3d2b117b2f" />
 </p>
 
 ## Diccionario: Entradas
