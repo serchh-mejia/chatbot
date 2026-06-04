@@ -37,6 +37,9 @@ La estructura centralizada también ayuda a mantener una atención al cliente or
 
 Gracias a este modelo, BOXCHETT puede ofrecer un servicio automatizado disponible 24/7, optimizando los procesos operativos y mejorando la experiencia del cliente.
 
+## modelado de roles
+<img width="530" height="535" alt="Captura de pantalla 2026-05-28 165346" src="https://github.com/user-attachments/assets/abd87a78-fd4f-4336-a816-358dfcd2632b" />
+
 # ARQUITECTURA CHATBOTT BOXCHETT.
 <p align="center">
 <img width="905" height="484" alt="image" src="https://github.com/user-attachments/assets/241d5efe-805b-44e7-83ae-2bf0a162018d" />
